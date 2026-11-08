@@ -7,8 +7,8 @@ An end-to-end Data Analysis and Machine Learning project designed to explore pas
 ## 📸 Key Data Visualizations
 
 <p align="center">
-  <img src="images/age_distribution.png" alt="Age Distribution" width="45%" />
-  <img src="images/flight_distance_class.png" alt="Flight Distance by Class" width="45%" />
+  <img width="1075" height="595" alt="Screenshot 2026-11-08 154509" src="https://github.com/user-attachments/assets/4bafcc0d-8f33-4a77-a434-11fbd44f19f5" />
+  <img width="700" height="815" alt="Screenshot 2026-11-08 154535" src="https://github.com/user-attachments/assets/aed3f59f-9f71-4443-994b-aabd31a2599b" />
 </p>
 
 ---
